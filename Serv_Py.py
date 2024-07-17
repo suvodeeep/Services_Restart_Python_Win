@@ -1,7 +1,7 @@
 import subprocess
 import time
 
-services = ['MicrosoftSearchInBing','Spooler']
+services = ['Service1','Service2']
 
 
 def res_serv(servName):
